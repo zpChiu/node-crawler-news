@@ -1,0 +1,21 @@
+{
+  "name": "node-crawler-news",
+  "version": "1.0.0",
+  "description": "爬取新闻网站,向邮箱发送当天新闻内容",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node爬虫"
+  ],
+  "author": "CHIHPENGCHIU",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "iconv-lite": "^0.6.3",
+    "nodemailer": "^6.7.7",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "request": "^2.88.2"
+  }
+}
