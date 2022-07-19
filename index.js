@@ -180,7 +180,7 @@ const PageRequest = () => {
         // 抄送
         // cc: 'cc@qq.com',
         // 对方邮箱地址, 可以同时发送多个, 以逗号隔开  
-        to: 'xxx@qq.com',
+        to: 'shoujianfang@qq.com',
         // 标题
         subject: `${dayStr} 早报新闻列表`,
         // html格式
