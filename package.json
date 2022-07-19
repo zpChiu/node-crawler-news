@@ -9,6 +9,10 @@
   "keywords": [
     "Node爬虫"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zpChiu/node-crawler-news"
+  },
   "author": "CHIHPENGCHIU",
   "license": "ISC",
   "dependencies": {
